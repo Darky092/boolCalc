@@ -1,0 +1,42 @@
+C:\Users\purr\source\repos\laba 6\laba 6\bin\Debug\laba 6.exe.config
+C:\Users\purr\source\repos\laba 6\laba 6\bin\Debug\laba 6.exe
+C:\Users\purr\source\repos\laba 6\laba 6\bin\Debug\laba 6.pdb
+C:\Users\purr\source\repos\laba 6\laba 6\bin\Debug\laba 4-5.pdb
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\laba 6.csproj.AssemblyReference.cache
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\MainWindow.g.cs
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\App.g.cs
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\laba 6_MarkupCompile.cache
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\laba 6_MarkupCompile.lref
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\MainWindow.baml
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\laba 6.g.resources
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\laba_6.Properties.Resources.resources
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\laba 6.csproj.GenerateResource.cache
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\laba 6.csproj.CoreCompileInputs.cache
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\laba 6.csproj.Up2Date
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\laba 6.exe
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\laba 6.pdb
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\Window1.g.cs
+C:\Users\purr\source\repos\laba 6\laba 6\obj\Debug\Window1.baml
+C:\Users\purr\source\repos\laba 6\laba 6\bin\Debug\laba 4-5.dll
+C:\Users\purr\Desktop\laba 6\laba 6\bin\Debug\laba 6.exe.config
+C:\Users\purr\Desktop\laba 6\laba 6\bin\Debug\laba 6.exe
+C:\Users\purr\Desktop\laba 6\laba 6\bin\Debug\laba 6.pdb
+C:\Users\purr\Desktop\laba 6\laba 6\bin\Debug\laba 4-5.dll
+C:\Users\purr\Desktop\laba 6\laba 6\bin\Debug\laba 4-5.pdb
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\laba 6.csproj.AssemblyReference.cache
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\MainWindow.g.cs
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\Window1.g.cs
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\App.g.cs
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\laba 6_MarkupCompile.cache
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\laba 6_MarkupCompile.lref
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\MainWindow.baml
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\Window1.baml
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\laba 6.g.resources
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\laba_6.Properties.Resources.resources
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\laba 6.csproj.GenerateResource.cache
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\laba 6.csproj.CoreCompileInputs.cache
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\laba 6.csproj.Up2Date
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\laba 6.exe
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\laba 6.pdb
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\Window2.g.cs
+C:\Users\purr\Desktop\laba 6\laba 6\obj\Debug\Window2.baml

@@ -1,0 +1,12 @@
+C:\Users\purr\source\repos\laba 4-5\laba 4-5\bin\Debug\laba 4-5.dll
+C:\Users\purr\source\repos\laba 4-5\laba 4-5\bin\Debug\laba 4-5.pdb
+C:\Users\purr\source\repos\laba 4-5\laba 4-5\obj\Debug\laba 4-5.csproj.AssemblyReference.cache
+C:\Users\purr\source\repos\laba 4-5\laba 4-5\obj\Debug\laba 4-5.csproj.CoreCompileInputs.cache
+C:\Users\purr\source\repos\laba 4-5\laba 4-5\obj\Debug\laba 4-5.dll
+C:\Users\purr\source\repos\laba 4-5\laba 4-5\obj\Debug\laba 4-5.pdb
+C:\Users\purr\Desktop\все работы за первый семестр\laba 4-5\laba 4-5\bin\Debug\laba 4-5.dll
+C:\Users\purr\Desktop\все работы за первый семестр\laba 4-5\laba 4-5\bin\Debug\laba 4-5.pdb
+C:\Users\purr\Desktop\все работы за первый семестр\laba 4-5\laba 4-5\obj\Debug\laba 4-5.csproj.AssemblyReference.cache
+C:\Users\purr\Desktop\все работы за первый семестр\laba 4-5\laba 4-5\obj\Debug\laba 4-5.csproj.CoreCompileInputs.cache
+C:\Users\purr\Desktop\все работы за первый семестр\laba 4-5\laba 4-5\obj\Debug\laba 4-5.dll
+C:\Users\purr\Desktop\все работы за первый семестр\laba 4-5\laba 4-5\obj\Debug\laba 4-5.pdb

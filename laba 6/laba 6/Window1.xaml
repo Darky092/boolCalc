@@ -1,0 +1,20 @@
+﻿<Window x:Class="laba_6.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:laba_6"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="backButton" Background="Azure" Content="back" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="45" Width="103" Click="backButton_Click" FontFamily="Arial Black"/>
+        <Button x:Name="Enter" Background="Azure" Content="Расщитать ОПЗ" HorizontalAlignment="Left" Margin="261,268,0,0" VerticalAlignment="Top" Height="28" Width="220" FontFamily="Verdana" Click="Enter_Click"/>
+        <TextBox x:Name="Expression" Background="AliceBlue" HorizontalAlignment="Center" Margin="0,153,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="531" Height="76" FontFamily="Arial Black"/>
+        <TextBlock x:Name="Express" Background="Coral" HorizontalAlignment="Center" Margin="0,97,0,0" TextWrapping="Wrap" Text="Введите логическое выражение в формате B NOT C XOR B и т.д" VerticalAlignment="Top" Height="51" Width="532" FontFamily="Arial Black" FontSize="16"/>
+        <TextBlock x:Name="Answer" Background="AliceBlue" HorizontalAlignment="Left" Margin="263,316,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="37" Width="218"/>
+        <TextBox Background="AliceBlue" x:Name="Args" HorizontalAlignment="Center" Margin="0,57,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="532" Height="35"/>
+        <Button x:Name="EnterExpress" Content="Расщитать выражение" HorizontalAlignment="Left" Margin="263,234,0,0" VerticalAlignment="Top" Height="30" Width="218" Click="EnterExpress_Click"/>
+        <TextBlock x:Name="argsParam" Background="Coral" HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="Введи значение переменных через запятую" VerticalAlignment="Top" Height="42" Width="532" FontFamily="Arial Black"/>
+
+    </Grid>
+</Window>
